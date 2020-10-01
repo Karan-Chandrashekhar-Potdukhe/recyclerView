@@ -1,0 +1,6 @@
+Using a RecyclerView has the following key steps:
+Add RecyclerView AndroidX library to the Gradle build file.
+Define a model class to use as the data source.
+Add a RecyclerView to your activity to display the items.
+Create a custom row layout XML file to visualize the item.
+Create a RecyclerView.
